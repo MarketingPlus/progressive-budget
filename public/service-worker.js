@@ -40,3 +40,11 @@ self.addEventListener("activate", function (evt) {
 
     self.clients.claim();
 });
+
+self.addEventListener("fetch", function (evt) {
+    if (evt.request.url.includes("/api/")) {
+        evt.respondWith(
+            caches.open(DATA_CACHE_NAME).then(cache => {
+                return fetch(evt.request)
+                    .then(response => {
+                       
