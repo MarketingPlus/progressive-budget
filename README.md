@@ -6,7 +6,7 @@
 
 A mongoDB application that tracks budget which works both online and offline and serves as a PWA
 
-![SCREENSHOT](https://user-images.githubusercontent.com/77607177/124527602-5a116380-de49-11eb-8992-8b7169effd3a.png)
+![SCREENSHOT](https://user-images.githubusercontent.com/77607177/125394835-a599b380-e3ed-11eb-919c-5398025b1c27.PNG)
 
 ## TABLE OF CONTENTS
 
@@ -22,7 +22,7 @@ A mongoDB application that tracks budget which works both online and offline and
 ## LINKS 🔗
 
 [REPOSITORY](https://github.com/MarketingPlus/progressive-budget)
-[DEPLOYED](https://damp-woodland-65234.herokuapp.com/)
+[DEPLOYED](https://powerful-springs-59625.herokuapp.com/)
 
 <a name="features"></a>
 
